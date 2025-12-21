@@ -1,5 +1,7 @@
 vim.opt.guicursor = ""
 
+-- enabling scroll, might be irrelevant now w/ new terminal emu
+vim.opt.mouse = "a"
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
