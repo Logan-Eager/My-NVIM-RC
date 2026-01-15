@@ -12,6 +12,7 @@ config.initial_rows = 28
 config.default_prog = { 'powershell.exe' }
 config.enable_tab_bar = false
 
+-- doesent work ????
 config.default_cwd = 'D:/GitRepos/'
 
 -- font stuff 
